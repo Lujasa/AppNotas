@@ -1,0 +1,22 @@
+[
+    {
+        "titulo": "Repasar JS",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "Armar aplicación de tareas",
+        "estado": "en progreso"
+    },
+    {
+        "titulo": "Ver inicio del mundial",
+        "estado": "Muy mal"
+    },
+    {
+        "titulo": "Desafio N°1",
+        "estado": "en progreso"
+    },
+    {
+        "titulo": "Desafio N°2",
+        "estado": "pendiente"
+    }
+]
